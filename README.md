@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nigar Mohubaliyeva</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<div>
+  <video alt="Data Coding GIF by Pudgy Penguins" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.mp4?cid=ecf05e470wmkwi0wl6w6ptkd7x17wa4z28jrjoawv1edefcf&amp;ep=v1_gifs_search&amp;rid=giphy.mp4&amp;ct=g" poster="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy_s.gif?cid=ecf05e470wmkwi0wl6w6ptkd7x17wa4z28jrjoawv1edefcf&amp;ep=v1_gifs_search&amp;rid=giphy_s.gif&amp;ct=g" autoplay="" loop="" playsinline="" style="width: 500px; height: 375px; left: 0px; top: 0px;"></video>
+  <img align="right" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e470wmkwi0wl6w6ptkd7x17wa4z28jrjoawv1edefcf&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Data Coding GIF by Pudgy Penguins" style="width: 400px; height: 375px;">
+</div>
 
 
 - 🌱 I’m currently learning **React, Redux, Redux Toolkit**
